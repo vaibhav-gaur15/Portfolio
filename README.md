@@ -20,34 +20,10 @@ This portfolio website provides visitors with:
 - **Resume Download**: Access my latest resume in PDF format
 - **Contact Information**: Easy ways to get in touch for opportunities or collaboration
 
-## 🎯 Website Sections
-
-1. **Hero Section**: Introduction and professional summary
-2. **About**: Educational background and professional experience
-3. **Skills**: Technical expertise organized by categories
-4. **Experience**: Work timeline and featured projects
-5. **Resume**: Downloadable PDF resume
-6. **Contact**: Contact form and social media links
-
-## 🛠️ Technical Stack
-
-This website is built using modern web technologies:
-- **HTML5** for semantic structure
-- **CSS3** with Flexbox and Grid for responsive design
-- **JavaScript** for interactive functionality
-- **Font Awesome** for professional icons
-- **Google Fonts** for clean typography
-
-## 📱 Responsive Design
-
-The website is fully responsive and optimized for:
-- **Desktop computers** (1200px and above)
-- **Tablets** (768px - 1199px)
-- **Mobile devices** (below 768px)
 
 ## 🚀 Live Website
 
-Visit my portfolio at: [Your Live Website URL]
+Visit my portfolio at: [https://portfolio-three-gules-gobmzxfct6.vercel.app/]
 
 ## 📞 Get In Touch
 
@@ -57,9 +33,5 @@ I'm always interested in new opportunities and exciting projects. Feel free to r
 - **Email**: vaibhav1508gaur@gmail.com
 - **GitHub**: [@vaibhav-gaur15](https://github.com/vaibhav-gaur15)
 - **LinkedIn**: [Vaibhav Gaur](https://www.linkedin.com/in/vaibhav-gaur-64844723a/)
-- **Location**: India
-- **Current Role**: Software Developer at Samsung
-
----
 
 *Thank you for visiting my portfolio! I look forward to connecting with you.*
